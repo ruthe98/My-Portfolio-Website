@@ -1,0 +1,70 @@
+#header {
+				background-image: url('y.jpg');
+				background-position: center;
+				color: white;
+			}
+
+			#header{
+				background-color: lightblue;
+				text-align: center;
+				color: white;
+			}
+			#footer{
+				background-color: lightpink;
+				text-align: center;
+				color: white;	
+			}
+
+			#about {
+				/*color: red;*/
+			}
+
+			div {
+				padding: 10px;
+				/*background-color: green;*/
+			}
+
+			img {
+				width: 100%;
+			}
+
+			h1{
+                font-size: 65px;
+				font-family: Monaco, monospace;
+				font-weight: 100;
+            }
+
+			h2 {
+				font-size: 40px;
+				font-family: palatino;
+				color: lightblue;
+				/*text-align: center;*/
+			}
+			img {
+    border-radius: 50%;
+    
+}
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+  width: 250;
+}
+.mypointer{
+	-webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+	width: 75;
+}
+			/*p{
+				text-align: center;
+			}
+			ul{
+				text-align: center;
+				list-style-position: inside;
+			}*/
+			
